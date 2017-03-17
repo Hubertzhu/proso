@@ -7,6 +7,12 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
+.image {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -50,4 +56,6 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._流程形状 {
 }
